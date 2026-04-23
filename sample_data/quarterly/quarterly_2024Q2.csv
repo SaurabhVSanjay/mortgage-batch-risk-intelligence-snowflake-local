@@ -1,0 +1,4 @@
+quarter_end_date,region,product_type,mortgages_count,delinquent_count,defaults_count,prepayment_count,avg_ltv,avg_dti
+2026-06-30,Dublin,Fixed,12000,980,75,410,0.7410,0.3120
+2026-06-30,Cork,Variable,8300,910,68,260,0.8040,0.3360
+2026-06-30,Galway,Fixed,4600,520,41,120,0.8290,0.3510

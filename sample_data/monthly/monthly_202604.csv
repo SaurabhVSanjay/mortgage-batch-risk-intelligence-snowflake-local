@@ -1,0 +1,4 @@
+snapshot_month,mortgage_id,borrower_id,current_interest_rate,current_balance,current_ltv,property_value,region,delinquency_bucket
+2026-04-01,M001,B001,4.2500,345000.00,0.7200,479000.00,Dublin,CURRENT
+2026-04-01,M002,B002,5.1000,412500.00,0.8600,480000.00,Cork,1-30
+2026-04-01,M003,B003,4.7500,289000.00,0.9100,317500.00,Galway,31-60

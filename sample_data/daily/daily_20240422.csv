@@ -1,0 +1,4 @@
+payment_id,mortgage_id,borrower_id,payment_date,payment_amount,payment_status,days_past_due,principal_outstanding
+P001,M001,B001,2026-04-22,1850.00,PAID,0,345000.00
+P002,M002,B002,2026-04-22,2100.00,PARTIAL,12,412500.00
+P003,M003,B003,2026-04-22,1950.00,MISSED,35,289000.00
